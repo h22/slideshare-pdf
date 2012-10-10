@@ -1,0 +1,4 @@
+Downloads a slideshare presentation as PDF.
+Usage:
+slideshare-pdf [url] [output-file]
+output-file must end with .pdf
